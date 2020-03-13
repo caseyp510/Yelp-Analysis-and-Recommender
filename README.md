@@ -1,7 +1,5 @@
 # Yelp-Analysis-and-Recommender
 
-## Yelp restaurant Analysis, Classification, and Recommender
-
 ### Overview
 For part of my coursework during my time in General Assembly’s Data Science Immersive program, I was tasked to design and develop a recommender system. First, I conducted a thorough analysis of the data, a sentiment analysis on a popular restaurant in the city of Pittsburg, then created a text classification model that is able to predict the rating a customer would give a restaurant they tried based on the language (NLP) that they used in the rating. The choice to create a restaurant recommender inspired by my love to try new things (food) and to explore my curiosity about a company whose product/service I use regularly (Yelp).
 
